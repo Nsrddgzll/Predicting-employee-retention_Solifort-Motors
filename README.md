@@ -25,6 +25,14 @@ promotion_last_5years|Whether or not the employee was promoted in the last 5 yea
 Department|The employee's department
 salary|The employee's salary (U.S. dollars)
 
+Target variable:
+
+![Target variable](images/logo.png)
+
+### Modeling and Evaluation
+
+A XGBoost model comprising 150 decision trees was used to determine feature importance if employee would leave the company or not. The below plot shows that `average_monthly_hours`, `satisfaction_level`, `last_evaluation`, `number_project` and `tenure` were the Top 5 most important factors in determining wheather employee will leave or not. The overall model performed with 98% accuracy and 92% recall.
+
 
 
 
