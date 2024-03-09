@@ -6,17 +6,18 @@ This repository contains the code and documentation for my capstone project for 
 
 In this lab, I have employed statistical model - Logistic regression,  and  Machine learning models - Random Forrest and XGBoost to predict Employee churn. 
 
-## Overview
-
 Notebook consist of four phases:
 
 **Plan**
+
 Understanding data and Business problem
 
 **Analyse**
+
 This phase covers Data preprocessing, Explarotary Data Analysis, checking model assumptions and selecting models
 
 **Construct**
+
 In this phase, I constructed Logistic regression, Random Forrest and XGBoost and evaluated each model using appropriate metrics
 
 **Execute**
