@@ -25,6 +25,8 @@ promotion_last_5years|Whether or not the employee was promoted in the last 5 yea
 Department|The employee's department
 salary|The employee's salary (U.S. dollars)
 
+add picture to readme in order to demonstrate the findings
+
 
 
 ### Conclusion
